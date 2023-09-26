@@ -1,0 +1,50 @@
+header{
+    height: 10vh;
+    width: 100vw;
+    background-color: grey;
+}
+
+#box{
+    height: 7.5vh;
+    width: 7.5vh;
+    background-color: blue;
+    margin: 1.25vh;
+    position: absolute;
+
+}
+
+#text{
+    height: 40vh;
+    width: 100vw;
+    background-color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+
+#div1{
+    height: 25vh;
+    width: 100vw;
+    background-color: blue;
+}
+
+#div2{
+    height: 25vh;
+    width: 100vw;
+    background-color: seagreen;
+}
+
+#div3{
+    height: 25vh;
+    width: 100vw;
+    background-color: green;
+}
+
+#div4{
+    height: 25vh;
+    width: 100vw;
+    background-color: yellow;
+}
